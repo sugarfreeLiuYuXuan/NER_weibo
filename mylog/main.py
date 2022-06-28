@@ -19,6 +19,6 @@ Your training code here, you may use these functions to log your result:
     ......
 """
 # run_word2vec_and_Bilstm.run_word2vec()
-# run_Bert_and_Bilstm.run_bert()
-run_no.run_no()
+run_Bert_and_Bilstm.run_bert()
+# run_no.run_no()
 fitlog.finish()                     # finish the logging
