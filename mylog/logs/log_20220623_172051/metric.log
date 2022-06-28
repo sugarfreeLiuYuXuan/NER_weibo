@@ -1,0 +1,20 @@
+Step:85	{"metric": {"SpanFPreRecMetric": {"f": 0.31643, "pre": 0.75, "rec": 0.200514}, "step": 85, "epoch": 1}, "step": 85, "epoch": 1}
+Step:85	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.215886, "pre": 0.726027, "rec": 0.126794}}}, "step": 85, "epoch": 1}
+Step:170	{"metric": {"SpanFPreRecMetric": {"f": 0.457038, "pre": 0.791139, "rec": 0.321337}, "step": 170, "epoch": 2}, "step": 170, "epoch": 2}
+Step:170	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.340187, "pre": 0.777778, "rec": 0.217703}}}, "step": 170, "epoch": 2}
+Step:255	{"metric": {"SpanFPreRecMetric": {"f": 0.491468, "pre": 0.730964, "rec": 0.37018}, "step": 255, "epoch": 3}, "step": 255, "epoch": 3}
+Step:255	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.414035, "pre": 0.776316, "rec": 0.282297}}}, "step": 255, "epoch": 3}
+Step:340	{"metric": {"SpanFPreRecMetric": {"f": 0.483974, "pre": 0.642553, "rec": 0.388175}}, "step": 340, "epoch": 4}
+Step:340	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.448387, "pre": 0.688119, "rec": 0.332536}}}, "step": 340, "epoch": 4}
+Step:425	{"metric": {"SpanFPreRecMetric": {"f": 0.538226, "pre": 0.664151, "rec": 0.452442}, "step": 425, "epoch": 5}, "step": 425, "epoch": 5}
+Step:425	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.476336, "pre": 0.658228, "rec": 0.373206}}}, "step": 425, "epoch": 5}
+Step:510	{"metric": {"SpanFPreRecMetric": {"f": 0.53012, "pre": 0.64, "rec": 0.452442}}, "step": 510, "epoch": 6}
+Step:510	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.495468, "pre": 0.672131, "rec": 0.392344}}}, "step": 510, "epoch": 6}
+Step:595	{"metric": {"SpanFPreRecMetric": {"f": 0.519403, "pre": 0.619217, "rec": 0.447301}}, "step": 595, "epoch": 7}
+Step:595	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.44868, "pre": 0.579545, "rec": 0.366029}}}, "step": 595, "epoch": 7}
+Step:680	{"metric": {"SpanFPreRecMetric": {"f": 0.51076, "pre": 0.577922, "rec": 0.457584}}, "step": 680, "epoch": 8}
+Step:680	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.497878, "pre": 0.608997, "rec": 0.421053}}}, "step": 680, "epoch": 8}
+Step:765	{"metric": {"SpanFPreRecMetric": {"f": 0.542029, "pre": 0.621262, "rec": 0.48072}, "step": 765, "epoch": 9}, "step": 765, "epoch": 9}
+Step:765	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.464023, "pre": 0.60076, "rec": 0.37799}}}, "step": 765, "epoch": 9}
+Step:850	{"metric": {"SpanFPreRecMetric": {"f": 0.525281, "pre": 0.578947, "rec": 0.48072}}, "step": 850, "epoch": 10}
+Step:850	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.517615, "pre": 0.596875, "rec": 0.456938}}}, "step": 850, "epoch": 10}
